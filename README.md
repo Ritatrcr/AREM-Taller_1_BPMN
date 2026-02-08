@@ -1,85 +1,45 @@
-# 🛠️ Taller 1: Modelado de Proceso del Cliente con BPMN
+# 📄 Informe Técnico del Taller
 
-## 🎯 Objetivo
+## 🔖 Nombre del Taller
+_Taller 1_
 
-Modelar un proceso de negocio real del cliente utilizando la notación BPMN, identificando eventos, actividades, decisiones, actores involucrados y puntos críticos del flujo.
+## 👥 Integrantes del equipo
+- Rita Trindade da Cruz (ritatrcr)
+- Brandon Merchan Sandoval (merchito12)
 
----
 
-## 🏥 Caso base de referencia: Clínica Salud Viva
+## 🧠 Descripción general del trabajo
+Describa brevemente el objetivo del taller y cómo se desarrolló la actividad.
 
-Durante este taller, todos los equipos trabajarán en clase con un caso base común antes de aplicarlo a su cliente real.
+## 🔧 Proceso de desarrollo
+Explique cómo realizaron el trabajo: qué decisiones tomaron, qué herramientas utilizaron, qué aspectos modelaron primero y cómo lo fueron ajustando.
 
-## 🧠 Contexto
+## 🧩 Análisis del modelo propuesto
+Incluya un análisis sobre:
+- Cómo se estructura el modelo entregado
+- Cómo representa las necesidades del cliente
+- Qué supuestos se tomaron
 
-La Clínica Salud Viva es una institución médica de tamaño medio ubicada en una ciudad capital. Atiende pacientes tanto de manera presencial como virtual, y cuenta con una plataforma digital donde los usuarios pueden agendar citas médicas, recibir notificaciones y consultar su historial de atención. El proceso de agendamiento implica la selección de especialidad, disponibilidad del médico y confirmación vía correo electrónico o mensaje de texto. Este proceso es fundamental para garantizar una atención eficiente y organizada, especialmente en épocas de alta demanda como campañas de vacunación o jornadas preventivas.
+## 📈 Diagrama final entregado
+> (Inserte aquí una imagen o enlace al modelo-final.drawio / .asta / PDF)
 
-**Descripción del caso:**
-- La Clínica Salud Viva es una clínica mediana que ofrece atención médica presencial y virtual.
-- Cuenta con un sistema de gestión de citas en línea, un ERP administrativo y alianzas con aseguradoras de salud.
+## 📋 Tabla de actores, entidades o componentes (si aplica)
 
-**Proceso a modelar (en clase):**
-> Agendamiento de Citas Médicas
+| Nombre del elemento | Tipo | Descripción | Responsable |
+|---------------------|------|-------------|-------------|
+| Ej: Paciente        | Actor | Usuario que agenda una cita médica | Cliente |
 
-- Actor: Paciente
-- Flujo: Selección de especialidad → Médico → Fecha → Confirmación
-- Interacciones: con sistema de citas, base de datos, notificación por correo/SMS
+## 🔍 Investigación complementaria
+### Tema investigado:
+(Ej: Buenas prácticas BPMN, comparación TOGAF vs C4, principios de seguridad STRIDE, etc.)
 
----
+### Resumen:
+Describa en 2–3 párrafos lo investigado, citando fuentes cuando sea necesario. Incluya cómo se relaciona con el taller.
 
-## 🧪 Parte 1: Trabajo en Clase
-
-Durante la clase se espera que el equipo:
-
-- Modele el proceso de agendamiento de citas de la Clínica Salud Viva utilizando BPMN.
-- Identifique:
-  - Evento de inicio y fin
-  - Actividades principales
-  - Decisiones (gateways)
-  - Roles del proceso
-- Use papel, pizarra o herramientas como draw.io o Camunda Modeler.
-- Reciba retroalimentación del docente y registre avances.
-
----
-
-## 🧠 Parte 2: Aplicación al Cliente Real
-
-Después de la clase, el equipo debe:
-
-- Seleccionar un proceso real del cliente asignado (puede ser análogo al caso de clase).
-- Digitalizar el modelo BPMN específico del cliente.
-- Redactar un informe explicando el proceso, diferencias con el caso base y justificaciones.
-- Complementar con una investigación sobre buenas prácticas BPMN y ejemplos en la industria.
+## 📚 Referencias
+- [1] Apellido, Nombre. *Título*. Año. URL o DOI.
+- [2] Fuente oficial BPMN: https://www.omg.org/spec/BPMN/
 
 ---
 
-## 📁 Estructura esperada del repositorio
-
-```
-taller-01-bpmn/
-├── README.md
-├── clase/
-│   ├── modelo.drawio              # Modelo BPMN del caso base (Clínica Salud Viva)
-│   └── notas.md
-├── entrega/
-│   ├── modelo-final.drawio        # Modelo BPMN del proceso real del cliente
-│   ├── informe.md
-│   └── referencias.md
-```
-
----
-
-## 📊 Rúbrica de Evaluación
-
-| Criterio                            | Excelente (5)                                                       | Aceptable (3) / Insuficiente (1–2)                     |
-|-------------------------------------|----------------------------------------------------------------------|---------------------------------------------------------|
-| Claridad del diagrama BPMN          | Modelo limpio, con símbolos correctos y buena secuencia lógica       | Desordenado, símbolos incorrectos o secuencia confusa  |
-| Representación del caso base        | Modelo representa adecuadamente el flujo propuesto (Clínica Salud Viva) | Modelo incompleto o incoherente con el caso de clase   |
-| Aplicación al cliente real          | Se adapta adecuadamente el modelado al cliente con diferencias justificadas | No hay adaptación real o está desalineado              |
-| Investigación complementaria        | Buenas prácticas BPMN aplicadas y bien citadas                       | Poco análisis o investigación desconectada              |
-
----
-
-## ✅ Licencia
-
-Este taller hace parte del curso de Arquitectura Empresarial - Universidad de La Sabana. Uso académico bajo licencia MIT.
+_Este documento hace parte de la entrega del taller X del curso AREM (Arquitectura Empresarial) - Universidad de La Sabana._
