@@ -43,13 +43,14 @@ El modelo refleja de manera fiel las necesidades del cliente al mostrar:
 
 ## 📋 Tabla de actores
 
-| Nombre del elemento | Tipo   | Descripción                                             | Responsable        |
-|---------------------|--------|---------------------------------------------------------|--------------------|
-| Paciente / Cliente  | Actor  | Usuario que solicita una cita o reserva                 | Cliente            |
-| Asistente           | Actor  | Persona encargada de gestionar reservas y pagos         | Empresa            |
-| Sistema de agendamiento | Sistema | Plataforma digital para el agendamiento (caso base) | Clínica            |
-| WhatsApp            | Canal  | Medio de comunicación principal para la reserva         | Cliente / Empresa  |
-| Base de datos       | Sistema| Registro de citas o reservas                            | Empresa            |
+| Nombre del elemento       | Tipo    | Descripción                                   | Responsable        |
+|---------------------------|---------|-----------------------------------------------|--------------------|
+| Paciente / Cliente        | Actor   | Usuario que solicita una cita o reserva       | Cliente            |
+| Asistente                 | Actor   | Persona encargada de gestionar reservas y pagos | Empresa            |
+| Sistema de agendamiento   | Sistema | Plataforma digital (en el caso de la clinica)                | Clínica            |
+| WhatsApp                  | Canal   | Medio de comunicación principal               | Cliente / Empresa  |
+| Base de datos             | Sistema | Registro de citas o reservas                  | Empresa            |
+
 
 
 ## 🔍 Investigación complementaria
