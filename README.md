@@ -64,10 +64,13 @@ En el contexto del taller, estas buenas prácticas permitieron modelar procesos 
 ## 📚 Referencias
 •  [1] Universidad de La Sabana. Material de clase – Arquitectura Empresarial. s.f.
 https://unisabanaedu.sharepoint.com/sites/ArquitecturaEmpresarial/SitePages/Material-de-clase.as
+
 •  [2] Object Management Group (OMG). Business Process Model and Notation (BPMN) Specification. s.f.
 https://www.omg.org/spec/BPMN/
+
 •  [3] Chakray Consulting. ¿Qué es BPMN y para qué sirve?. s.f.
 https://chakray.com/es/que-es-el-bpmn-y-para-que-sirve/
+
 •  [4] BbT0IN3y2V4. Introducción a BPMN – Modelado de procesos. YouTube, s.f.
 https://www.youtube.com/watch?v=BbT0IN3y2V4
 
