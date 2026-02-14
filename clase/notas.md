@@ -1,7 +1,4 @@
-# 🗒️ Registro de Trabajo en Clase - Taller X
-
-## 📆 Fecha de la sesión
-_Indique la fecha de la clase en que se trabajó este taller._
+# 🗒️ Registro de Trabajo en Clase - Taller BPMN
 
 ## 👥 Integrantes presentes
 - Rita Trindade da Cruz
