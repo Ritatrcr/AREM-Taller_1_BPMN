@@ -1,12 +1,9 @@
-# 🗒️ Registro de Trabajo en Clase - Taller 1
-
-## 📆 Fecha de la sesión
-_Indique la fecha de la clase en que se trabajó este taller._
+# 🗒️ Registro de Trabajo en Clase - Taller BPMN
 
 ## 👥 Integrantes presentes
 - Rita Trindade da Cruz
 - Brandon Merchan Sandoval
-- Daniel Felipe Forero
+- Daniel Forero
 
 
 ## 🧠 Actividades realizadas en clase
@@ -52,10 +49,9 @@ Anote las responsabilidades acordadas entre los miembros del equipo para complet
 | Tarea asignada                                  | Responsable              | Fecha estimada |
 | ----------------------------------------------- | ------------------------ | -------------- |
 | Ajustes finales del modelo BPMN en draw.io      | Rita Trindade da Cruz    | 7/02          |
-| Revisión del flujo y validación BPMN            | Daniel Felipe Forero     | 7/08          |
-| Redacción final del informe y README            | Brandon Merchan          | 7/08          |
-| Revisión general y preparación de entrega final | 3 integrantes        | 7/08          |
+| Revisión del flujo y validación BPMN            | Brandon Merchan Sandoval | 7/08          |
+| Redacción final del informe y README            | Daniel Felipe Forero   | 7/08          |
+| Revisión general y preparación de entrega final | Ambos integrantes        | 7/08          |
 
 ---
-
 
