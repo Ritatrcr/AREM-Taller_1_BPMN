@@ -6,6 +6,7 @@ _Indique la fecha de la clase en que se trabajó este taller._
 ## 👥 Integrantes presentes
 - Rita Trindade da Cruz
 - Brandon Merchan Sandoval
+- Daniel Forero
 
 
 ## 🧠 Actividades realizadas en clase
@@ -52,7 +53,7 @@ Anote las responsabilidades acordadas entre los miembros del equipo para complet
 | ----------------------------------------------- | ------------------------ | -------------- |
 | Ajustes finales del modelo BPMN en draw.io      | Rita Trindade da Cruz    | 7/02          |
 | Revisión del flujo y validación BPMN            | Brandon Merchan Sandoval | 7/08          |
-| Redacción final del informe y README            | Rita Trindade da Cruz    | 7/08          |
+| Redacción final del informe y README            | Daniel Felipe Forero   | 7/08          |
 | Revisión general y preparación de entrega final | Ambos integrantes        | 7/08          |
 
 ---

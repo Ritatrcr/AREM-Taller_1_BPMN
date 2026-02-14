@@ -75,6 +75,5 @@ https://chakray.com/es/que-es-el-bpmn-y-para-que-sirve/
 •  [4] BbT0IN3y2V4. Introducción a BPMN – Modelado de procesos. YouTube, s.f.
 https://www.youtube.com/watch?v=BbT0IN3y2V4
 
-
 ---
 
