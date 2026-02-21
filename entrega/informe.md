@@ -47,8 +47,7 @@ El proceso inicia cuando el cliente decide crear una reserva, iniciando una conv
 
 Este flujo refleja la forma en que la empresa opera actualmente, con una alta dependencia del factor humano y de la comunicación manual.
 
-**Figura No. 2.** Proceso inicial de las reservas.  
-**Figura No. 3.** Proceso final de las reservas.
+![alt text](image.png)
 
 ## 4. Diferencias con el caso base
 Al comparar el proceso de agendamiento de reservas de Elite Airsoft con un caso base (generalmente soportado por plataformas digitales automatizadas para la gestión de reservas), se identifican las siguientes diferencias clave:
